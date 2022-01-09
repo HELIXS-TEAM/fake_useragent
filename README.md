@@ -7,8 +7,8 @@
 [![](https://img.shields.io/static/v1?logo=swift&label=Made&message=Indonesia&color=yellow)](https://github.com/Bayu12345677)
 [![](https://img.shields.io/static/v1?logo=dash&label=Author&message=Bayu%20Riski&color=blue)](https://github.com/Bayu12345677)<br>
 [![](https://img.shields.io/static/v1?logo=docker&label=Source&message=Bash&color=cyan)](https://github.com/Bayu12345677)
-[![](https://img.shields.io/github/license/Bayu12345677/fake_useragent?style=plastic&logo=firefox&color=red)](https://github.com/Bayu12345677)
-[![](https://img.shields.io/github/stars/Bayu12345677/fake_useragent?style=plastic&logo=json&color=greenblue)](https://github.com/Bayu12345677)<br>
+[![](https://img.shields.io/github/license/HELIXS-TEAM/fake_useragent?style=plastic&logo=firefox&color=red)](https://github.com/Bayu12345677)
+[![](https://img.shields.io/github/stars/HELIXS-TEAM/fake_useragent?style=plastic&logo=json&color=greenblue)](https://github.com/Bayu12345677)<br>
 
 ```
 [**] Help::mode
