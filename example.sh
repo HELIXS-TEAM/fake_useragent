@@ -2,6 +2,8 @@
 
 source $(pwd)/lib/UserAgent.sh
 
+ua=$(Bash::Ua.Random)
+
 url=()
 
 google="https://google.com"
@@ -9,8 +11,18 @@ google="https://google.com"
     req=$(curl --silent \
          --request GET \
          --location \
-         "${google}" --compressed --insecure)
+         -H "user-agent: ${ua}" --url "${google}" --compressed --insecure)
 
-string="$req"
+ping -c1 google.com>/dev/null 2>&1
 
-  echo "${string}" | html2text
+response(){
+    if [[ $? == 0 ]]; then
+         echo "${req}" | html2text
+       return $?
+     else (
+            return $?
+       )
+    fi
+}
+
+ (response)
