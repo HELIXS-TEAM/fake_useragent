@@ -51,5 +51,5 @@ curl --silent \
 ```
 
 - #### kontak saya
-[![](https://img.shields.io/static/v1?logo=whatsapp&label=&message=Whastapp&color=grey)](https://web.whatsapp.com/send?phone=6285731184377&text=Hay%20Polygon)<br>
+[![](https://img.shields.io/static/v1?logo=whatsapp&label=&message=Whastapp&color=grey)](https://api.whatsapp.com/send?phone=6285731184377&text=Hay%20Polygon)<br>
 [![](https://img.shields.io/static/v1?logo=youtube&label=Me&message=Youtube&color=red)](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)<br>
