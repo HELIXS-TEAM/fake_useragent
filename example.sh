@@ -6,12 +6,12 @@ ua=$(Bash::Ua.Random)
 
 url=()
 
-google="https://google.com"
+Uri="https://example.com"
 
     req=$(curl --silent \
          --request GET \
          --location \
-         -H "user-agent: ${ua}" --url "${google}" --compressed --insecure)
+         -H "user-agent: ${ua}" --url "${Uri}" --compressed --insecure)
 
 ping -c1 google.com>/dev/null 2>&1
 
