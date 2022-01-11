@@ -36,7 +36,7 @@ Bash::Info, view usage
 =================================================================
 ```
 
-- `cara menggunakan nya`
+- `cara menggunakan nya`<br>
 pertama install repository ini<br>
 kedua masuk ke derectory repository ini<br>
 > contoh
