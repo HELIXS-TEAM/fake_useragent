@@ -36,6 +36,14 @@ Bash::Info, view usage
 =================================================================
 ```
 
+- `cara menggunakan nya`
+pertama install repository ini<br>
+kedua masuk ke derectory repository ini<br>
+> contoh
+```bash
+cd fake_useragent
+```
+jika anda sudah masuk ke derectory repository ini maka library siap di gunakan<br>
 - #### Example
 ```bash
 source lib/UserAgent.sh
